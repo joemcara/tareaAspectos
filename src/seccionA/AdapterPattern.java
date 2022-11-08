@@ -2,8 +2,8 @@ package seccionA;
 
 public class AdapterPattern {
 	public interface interfazAdapter {
-		public abstract void sacarYenes(double dolares);
-		public abstract void depositarYenes(double dolares);
+		public abstract void sacarYenes(double yenes);
+		public abstract void depositarYenes(double yenes);
 	}
 	
 	
